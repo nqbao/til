@@ -1,5 +1,12 @@
 This repository is for keeping track of my reading and learning, inspired by many other [TIL repositories](https://github.com/search?utf8=%E2%9C%93&q=til&ref=simplesearch). These are too short for a blog post, too long for a tweet 😉.
 
+## 2018-11-02
+
+  * [How does Bayesian Optimization work?](https://www.quora.com/How-does-Bayesian-optimization-work)
+  * [Use pandas `category` can reduce memory usage a lot](https://www.dataquest.io/blog/pandas-big-data/)
+  * Fidelity has a [self-funded overdraft protection](https://www.fidelity.com/cash-management/faqs-cash-management-account), which automatically move money within accounts to avoid overdraft. Typical bank charges you interest as soon as the overdraft happens.
+  * Chase Cardless ATM works with Apply Pay. You can just hold your phone near the icon to make the transaction.
+
 ## 2018-11-01
 
   * Python: Use `isinstance(x, numbers.Number)` to check if an instance is number
