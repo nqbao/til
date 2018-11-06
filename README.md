@@ -1,5 +1,14 @@
 This repository is for keeping track of my reading and learning, inspired by many other [TIL repositories](https://github.com/search?utf8=%E2%9C%93&q=til&ref=simplesearch). These are too short for a blog post, too long for a tweet 😉.
 
+## 2018-11-05
+
+  * Terraform ebs_optmized flag is troublesome. There is even a [module](https://github.com/terraform-aws-modules/terraform-aws-ebs-optimized) to determined the default state for this flag.
+  * [Dataflow Diagram Templates](https://creately.com/blog/examples/data-flow-diagram-templates/)
+
+## 2018-11-03
+
+  * [[Brain of Things]](https://dzone.com/articles/the-brain-of-things-and-home-automation): I heard it for a while, but I only really read about it today.
+
 ## 2018-11-02
 
   * [How does Bayesian Optimization work?](https://www.quora.com/How-does-Bayesian-optimization-work)
