@@ -4,7 +4,7 @@ This repository is for keeping track of my reading and learning, inspired by man
 
   * Pandas has a [Timestamp](https://pandas.pydata.org/pandas-docs/version/0.23.4/generated/pandas.Timestamp.html) type that is compatible with python datetime.
   * [Optimistic locking vs Pessmistic locking](http://www.orafaq.com/papers/locking.pdf)
-  * [Rai stones: There is an island uses stones for money, but the stones are too large to move, so buying an item simply means changing the ownership...](https://en.wikipedia.org/wiki/Rai_stones)
+  * [Rai stones](https://en.wikipedia.org/wiki/Rai_stones): There is an island uses stones for money, but the stones are too large to move, so buying an item simply means changing the ownership...
 
 ## 2018-11-06
 
