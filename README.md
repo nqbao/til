@@ -1,5 +1,14 @@
 This repository is for keeping track of my reading and learning, inspired by many other [TIL repositories](https://github.com/search?utf8=%E2%9C%93&q=til&ref=simplesearch). These are too short for a blog post, too long for a tweet 😉.
 
+## 2018-11-14
+
+  * [MQTT vs REST](https://medium.com/@flespi/http-vs-mqtt-performance-tests-f9adde693b5f)
+
+## 2018-11-12
+
+  * [AWS Pinpoint](https://aws.amazon.com/pinpoint/): A mailchimp-like service by AWS
+  * [AWS Transcribe](https://aws.amazon.com/transcribe/) currently only supports English and Spanish 😟.
+
 ## 2018-11-07
 
   * Pandas has a [Timestamp](https://pandas.pydata.org/pandas-docs/version/0.23.4/generated/pandas.Timestamp.html) type that is compatible with python datetime.
