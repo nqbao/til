@@ -1,8 +1,20 @@
 This repository is for keeping track of my reading and learning, inspired by many other [TIL repositories](https://github.com/search?utf8=%E2%9C%93&q=til&ref=simplesearch). These are too short for a blog post, too long for a tweet 😉.
 
+## 2018-11-20
+
+  * [Laplacian smoothing](https://www.quora.com/Could-someone-explain-Laplacian-smoothing-or-1-up-smoothing) can be used to estimate the probability of unseen data with small data sample.
+
+## 2018-11-18
+
+  * Use `sudo airport -s` to scan for wifi from your mac terminal.
+  * [macOs Wifi Scanning](https://clburlison.com/macos-wifi-scanning/)
+  * [airport-bssid](https://github.com/deekayw0n/airport-bssid) allows you to connect to wifi using BSSID
+    * For [macOs 10.14 or later](https://developer.apple.com/documentation/macos_release_notes/macos_mojave_10_14_release_notes), you will need to enable location service to use this feature.
+
 ## 2018-11-14
 
   * [MQTT vs REST](https://medium.com/@flespi/http-vs-mqtt-performance-tests-f9adde693b5f)
+  * [Sublime Remote Edit](https://packagecontrol.io/packages/RemoteEdit)
 
 ## 2018-11-12
 
