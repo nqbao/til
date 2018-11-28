@@ -1,8 +1,22 @@
 This repository is for keeping track of my reading and learning, inspired by many other [TIL repositories](https://github.com/search?utf8=%E2%9C%93&q=til&ref=simplesearch). These are too short for a blog post, too long for a tweet 😉.
 
+## 2018-11-17
+
+  * [Advanced Linux Sound Architecture](https://en.wikipedia.org/wiki/Advanced_Linux_Sound_Architecture)
+  * [Add AirPlay to your FireTV](https://www.ikream.com/2018/11/add-airplay-amazon-fire-tv-25126)
+
+## 2018-11-23
+
+  * [Origin of Blackfriday](https://www.thebalance.com/what-is-the-history-of-black-friday-3305711)
+
+## 2018-11-22
+
+  * Happy Thanksgiving 🦃
+
 ## 2018-11-20
 
   * [Laplacian smoothing](https://www.quora.com/Could-someone-explain-Laplacian-smoothing-or-1-up-smoothing) can be used to estimate the probability of unseen data with small data sample.
+  * Be [careful](https://github.com/golang/go/issues/6376) when you do cross-compiling with golang.
 
 ## 2018-11-18
 
