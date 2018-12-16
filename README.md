@@ -1,6 +1,61 @@
 This repository is for keeping track of my reading and learning, inspired by many other [TIL repositories](https://github.com/search?utf8=%E2%9C%93&q=til&ref=simplesearch). These are too short for a blog post, too long for a tweet 😉.
 
-## 2018-11-17
+## 2018-12-14
+
+  * [[The truth about Hyrdogen]](https://www.youtube.com/watch?v=f7MzFfuNOtY)
+
+## 2018-12-12
+
+  * [Top 5 mistakes in Spark application](https://www.slideshare.net/SparkSummit/top-5-mistakes-when-writing-spark-applications-by-mark-grover-and-ted-malaska)
+  * [E911 Fee](https://www.att.com/shop/wireless/prepaidE911.html)
+
+## 2018-12-11
+
+  * [Wifi 802.11ax](https://www.networkworld.com/article/3215907/mobile-wireless/why-80211ax-is-the-next-big-thing-in-wi-fi.html)
+  * [ElasticSearch as primary data store](https://vlkan.com/blog/post/2018/11/14/elasticsearch-primary-data-store/)
+
+## 2018-12-06
+
+  * [What happens if you can't pay a toll](https://www.businessinsider.com/what-happens-when-you-cant-pay-a-toll-2013-7)
+  * [IEEE 42010-2011: System and software engineering architecture description](https://www.slideshare.net/luctrudeau/architecture-vs-design)
+
+## 2018-12-05
+
+  * [No principles software architecture](https://www.innoq.com/en/blog/no-principles-software-architecture/): interesting article about some software design principles can cause more harm than good.
+
+## 2018-12-04
+
+  * [Continuation-passing style](https://en.wikipedia.org/wiki/Continuation-passing_style)
+
+## 2018-12-03
+  
+  * [Circuit Breaker](https://martinfowler.com/bliki/CircuitBreaker.html) design pattern.
+
+
+## 2018-12-02
+
+  * [You can't use your iPhone as a bluetooth speaker](https://www.quora.com/How-do-you-use-your-iPhone-as-a-bluetooth-speaker). Silly idea though ...
+
+## 2018-12-01
+
+  * [Differences between 3.5mm jack for laptop and mobiles](https://www.quora.com/What-is-the-difference-between-3-5-mm-jack-in-mobiles-and-laptops)
+
+## 2018-11-30
+
+  * [udev](https://wiki.debian.org/udev): linux dynamic device management - An interface allows you to define rules to run when device connects the computer.
+
+## 2018-11-29
+
+  * A [vulnerability](https://schneid.io/blog/event-stream-vulnerability-explained/) in event-stream module that allows  attacker to steal bitcoin from your wallet.
+  * [Saleor](https://getsaleor.com): an ecommerce system written in Django
+  * [OData](https://blogs.sap.com/2016/02/08/odata-everything-that-you-need-to-know-part-3/): open data access protocol from Microsoft that allows the creation and consumption of query-able and interoperable RESTful APIs in a simple and standard way
+
+## 2018-11-28
+
+  * [Flic](https://flic.io/): smart button, kinda like AWS IoT button. It's expensive though ..
+  * [Synthetic Sensor from CMU](https://www.cmu.edu/news/stories/archives/2017/may/internet-of-things-sensors.html)
+
+## 2018-11-27
 
   * [Advanced Linux Sound Architecture](https://en.wikipedia.org/wiki/Advanced_Linux_Sound_Architecture)
   * [Add AirPlay to your FireTV](https://www.ikream.com/2018/11/add-airplay-amazon-fire-tv-25126)
@@ -21,7 +76,7 @@ This repository is for keeping track of my reading and learning, inspired by man
 ## 2018-11-18
 
   * Use `sudo airport -s` to scan for wifi from your mac terminal.
-  * [macOs Wifi Scanning](https://clburlison.com/macos-wifi-scanning/)
+  * [MacOs Wifi Scanning](https://clburlison.com/macos-wifi-scanning/)
   * [airport-bssid](https://github.com/deekayw0n/airport-bssid) allows you to connect to wifi using BSSID
     * For [macOs 10.14 or later](https://developer.apple.com/documentation/macos_release_notes/macos_mojave_10_14_release_notes), you will need to enable location service to use this feature.
 
