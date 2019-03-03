@@ -1,8 +1,19 @@
 This repository is for keeping track of my reading and learning, inspired by many other [TIL repositories](https://github.com/search?utf8=%E2%9C%93&q=til&ref=simplesearch). These are too short for a blog post, too long for a tweet 😉.
 
+## 2019-03-02
+
+I was too busy with random stuff, but anyway, here I am again.
+
+  * [ElasticSearch: ignore_malformed does not work correctly for all field types](https://github.com/elastic/elasticsearch/issues/12366). This would basically make ES not suitable for storing schemaless documents, when a field you may have mutiple value types.
+
+
+## 2018-12-28
+
+  * [[Why prime numbers are important in Cryptography]](https://stackoverflow.com/questions/439870/why-are-primes-important-in-cryptography)
+
 ## 2018-12-14
 
-  * [[The truth about Hyrdogen]](https://www.youtube.com/watch?v=f7MzFfuNOtY)
+  * [[The truth about Hydrogen]](https://www.youtube.com/watch?v=f7MzFfuNOtY)
 
 ## 2018-12-12
 
