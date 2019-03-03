@@ -5,20 +5,21 @@ This repository is for keeping track of my reading and learning, inspired by man
 I was too busy with random stuff, but anyway, here I am again.
 
   * [ElasticSearch: ignore_malformed does not work correctly for all field types](https://github.com/elastic/elasticsearch/issues/12366). This would basically make ES not suitable for storing schemaless documents, when a field you may have mutiple value types.
+  * You [can't connect](https://docs.aws.amazon.com/documentdb/latest/developerguide/troubleshooting.html#troubleshooting.cannot-connect.public-endpoints) to Amazon DocumentDB from outside of AWS.
 
 
 ## 2018-12-28
 
-  * [[Why prime numbers are important in Cryptography]](https://stackoverflow.com/questions/439870/why-are-primes-important-in-cryptography)
+  * [Why prime numbers are important in Cryptography](https://stackoverflow.com/questions/439870/why-are-primes-important-in-cryptography)
 
 ## 2018-12-14
 
-  * [[The truth about Hydrogen]](https://www.youtube.com/watch?v=f7MzFfuNOtY)
+  * [The truth about Hydrogen](https://www.youtube.com/watch?v=f7MzFfuNOtY)
 
 ## 2018-12-12
 
   * [Top 5 mistakes in Spark application](https://www.slideshare.net/SparkSummit/top-5-mistakes-when-writing-spark-applications-by-mark-grover-and-ted-malaska)
-  * [E911 Fee](https://www.att.com/shop/wireless/prepaidE911.html)
+  * [E911 Fee](https://www.att.com/shop/wireless/prepaidE911.html): If you buy pre-paid simcard, you have to pay an extra fee to help maintain the 911 emergency service.
 
 ## 2018-12-11
 
